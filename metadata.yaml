@@ -1,5 +1,8 @@
 _repo: Graham-s-Magazine-Vol-XXI-No-1-July-1842_67962
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67962-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '54553'
     url: http://www.gutenberg.org/2009/agents/54553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67962#Graham-s-Magazine-Vol-XXI-No-1-July-1842
 gutenberg_issued: '2022-05-01'
 identifiers:
   gutenberg: '67962'
